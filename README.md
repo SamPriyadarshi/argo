@@ -1,0 +1,1 @@
+This repository contains resources for getting started with ArgoCD.
